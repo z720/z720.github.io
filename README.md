@@ -1,7 +1,5 @@
-# z720.github.io
+# [QR code Generator](https://z720.github.io/qrcode-generator/)
 
-## [QR code Generator](https://z720.github.io/qrcode-generator/)
+# [PlantUML Editor](http://z720.github.io/plantuml-editor/)
 
-## [PlantUML Editor](http://z720.github.io/plantuml-editor/)
-
-## [Commit Prefixes](https://z720.github.io/commit-prefixes/)
+# [Commit Prefixes](https://z720.github.io/commit-prefixes/)
